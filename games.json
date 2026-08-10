@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Outer Wilds",
+    "steamId": 753640,
+    "tag": "Exploration / Mystery",
+    "blurb": "A time-looping mystery about a tiny solar system that rewards curiosity over combat.",
+    "why": "The best 'aha' moments of any game I've played — nothing else comes close."
+  },
+  {
+    "title": "Chicory: A Colorful Tale",
+    "steamId": 1123450,
+    "tag": "Adventure",
+    "blurb": "A painting-powered adventure where you restore color to a world that's lost it.",
+    "why": "The most emotionally honest game about creative self-doubt I've ever played."
+  },
+  {
+    "title": "Rain World",
+    "steamId": 312520,
+    "tag": "Survival",
+    "blurb": "You're prey, not predator, in a brutal ecosystem sim dressed up as a platformer.",
+    "why": "Unforgiving in a way that feels earned, not cheap."
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+]
